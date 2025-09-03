@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# C extensions
+*.so
+
+# symlink 
+params 
+
+# functions?
+functions/DAlphaBall.gcc
+functions/dssp
+
+
